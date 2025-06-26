@@ -1,4 +1,4 @@
-# Bike Helmet Detection
+# Bike Helmet Detection ### using YOLO11 model
 
 ## Overview
 
